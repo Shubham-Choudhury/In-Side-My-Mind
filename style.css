@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body{
+    margin: 0;
+}
+
+.quote-container{
+    min-height: 100vh;
+    height: fit-content;
+    width: 100%;
+    background: #001219;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 32px;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+
+.quote-container .quote{
+    max-width: 700px;
+    position: relative;
+}
+
+.quote-container .quote-icon{
+    position: absolute;
+    left: -76px;
+    top: -48px;
+    transform: scale(1.5) rotateZ(5deg);
+    opacity: 0.1;
+}
+
+.quote-container .quote-icon i{
+    font-size: 200px;
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.quote-container .quote-content{
+    /* font-weight: bold; */
+    font-size: 12px;
+    color: #fff;
+}
+
+.quote-container .quote-author{
+    font-size: 18px;
+    color: yellow;
+    border-top: 1px solid #93e0ff;
+    padding: 16px 32px;
+    margin-top: 20px;
+}
+.quote-container .new-quote-button{
+    padding: 16px 36px;
+    position: fixed;
+    bottom: 36px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #f3f3b2;
+    color: #001219;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+    transition: all 500ms ease;
+    margin: auto;
+}
+
+.quote-container .new-quote-button:hover{
+    background: #93e0ff;
+}
+
+@media (max-width: 900px){
+    .quote-container .quote-icon{
+        left: -16px;
+    }
+}
+
+@media (max-width: 500px){
+    .quote-container .quote-icon i{
+        font-size: 150px;
+        /* line-height: 1.8; */
+    }
+}
