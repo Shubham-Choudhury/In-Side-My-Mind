@@ -15,5 +15,18 @@ const life_truth = [
     `Distance never destroys a relationship.<br><br>
     Closeness never builds relationship.<br><br>
     It's all about the mutual desire to be together that ties two people in an everlasting bond.`,
-    `I don't know how and why we met but I need you forever in my life.`
+    `I don't know how and why we met but I need you forever in my life.`,
+    `Mature by mind,<br>
+    Kid by heart,<br>
+    Rude from outside,<br>
+    Caring from inside.<br>
+    That's me.... :(`,
+    `Even if there wasn't<br>graviy on earth<br>I would still fall<br>for you. <3`,
+    `"BE THANKFUL FOR EVERYTHING THAT<br>HAPPENs IN YOUR LIFE; IT'S ALL AN<br>ExPERIENCE"`,
+    `You are the best thing that has happend to me,<br>Nobody could ever take your place..🤍`,
+    `Some people come in your life and make<br>you believe thatyour life is incomplete<br>withuot them. Life without them seems impossible <3`,
+    `Idk what kind spell this girl put on me, but I'm so<br>obsessed with everything about her >>> 😩💗`,
+    `Loving too much,<br>Caring too much,<br>Respecting too much,<br>Trusting too much,<br>Forgive too much,<br>This too much will hurt you the most<br>in the end`,
+    `Relationship Tip:<br><br>Find someone who still knows<br>how to talk to you when they're<br>angry<br><br>Someone who respects<br>you in all mind states.`,
+    `That unexpected person become special to us and then<br>leaves us at unexpected time with unexpected way :/`,
 ]
