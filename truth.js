@@ -29,4 +29,12 @@ const life_truth = [
     `Loving too much,<br>Caring too much,<br>Respecting too much,<br>Trusting too much,<br>Forgive too much,<br>This too much will hurt you the most<br>in the end`,
     `Relationship Tip:<br><br>Find someone who still knows<br>how to talk to you when they're<br>angry<br><br>Someone who respects<br>you in all mind states.`,
     `That unexpected person become special to us and then<br>leaves us at unexpected time with unexpected way :/`,
+    `I'm waiting for that day when my mind will be finally at<br>peace and I won't feel so much pain in me.`,
+    `I date to marry<br>Not to date for one or<br>three years and break up.<br><br>That's why I'm willing to<br>fight for anything to keep<br>the relationship going.`,
+    `I Just Feel Like If I Die<br>Everything Will Be Okay.`,
+    `"The longer and more carefully we<br>look at a funny story, the sadder it<br>becomes."`,
+    `People don't always say<br>"I Love You".<br><br>Sometime it sounds like,<br>"Be safe!"<br>"Did you eat?"<br>"Call me when you reach home"<br>"I made you this"❤️`,
+    `I'm not ignoring you...I'm just waiting<br>to see that you will pull efforts to talk<br>to me or not "/`,
+    `Yes I am a strong person, but every now<br>and then,<br><br>I also need someone to take my hand<br>and say everything will be ok.🥺❤️`,
+    
 ]
