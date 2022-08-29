@@ -50,14 +50,14 @@ body{
     margin-top: 20px;
 }
 .quote-container .new-quote-button{
-    padding: 16px 36px;
+    padding: 10px 20px;
     position: fixed;
     bottom: 36px;
     left: 50%;
     transform: translateX(-50%);
     background: #f3f3b2;
     color: #001219;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: bold;
     text-transform: uppercase;
     border: none;
