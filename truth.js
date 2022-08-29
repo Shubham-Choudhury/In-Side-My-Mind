@@ -8,4 +8,12 @@ const life_truth = [
     `<strong>flirt:</strong><br>when you fall for someone's word<br><br>
     <strong>lust:</strong><br>when you fall for someone's beauty<br><br>
     <strong>love:</strong><br>when you fall for someone's soul<br><br>`,
+    `It hurts when you're a good person<br>But in the end people still hate you :(`,
+    `No parents wishes for a weak son.<br><br>
+    No women wishes for a weak man.<br><br>
+    No children wishes for a weak dad.`,
+    `Distance never destroys a relationship.<br><br>
+    Closeness never builds relationship.<br><br>
+    It's all about the mutual desire to be together that ties two people in an everlasting bond.`,
+    `I don't know how and why we met but I need you forever in my life.`
 ]
