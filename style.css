@@ -42,13 +42,14 @@ body{
     color: #fff;
 }
 
-.quote-container .quote-author{
+/* .quote-container .quote-author{
     font-size: 18px;
     color: yellow;
     border-top: 1px solid #93e0ff;
     padding: 16px 32px;
     margin-top: 20px;
-}
+} */
+
 .quote-container .new-quote-button{
     padding: 10px 20px;
     position: fixed;
